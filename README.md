@@ -1,3 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000&lines=HI+THERE!;+I'M+ZAKARYA+CHAIB!;" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+developer;always+learning%2C+always+building." />
+</div>
